@@ -79,3 +79,26 @@ table {
     border-style: dotted;
     border-radius: 10px;
   }
+  ul.navbar-horizontal {
+        
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: #000 5px;
+    }
+    ul.navbar-horizontal li {
+    border: solid 2px black;
+    margin: 4px;
+    float:left;
+    color:#000;
+    background-color:blueviolet;
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:6px
+    }
+    
+    ul.navbar-horizontal a:hover {  
+    background-color: lightseagreen;
+    color:white;
+    }
