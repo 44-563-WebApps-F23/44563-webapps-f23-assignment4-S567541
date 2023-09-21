@@ -1,0 +1,35 @@
+.speech
+{
+    font-family: Arial, sans-serif;
+    color:black;
+    font-size: medium;
+}
+.direction
+{
+    font-family: Times New Roman, serif;
+    background-color:lightgreen;
+    color: black;   
+    font-size:small;
+    transition: background-color 0.3s, color 0.3s;
+}
+.name {
+    color:darkblue;
+}
+.direction:hover
+{
+    background-color: maroon;
+    color:darkorange;
+    background-color:blueviolet;
+}
+.MISS TESMAN{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.HEDDA {
+    color:magenta;
+    font-family: 'Times New Roman', Times, serif;
+}
+.MISS TESMAN {
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
