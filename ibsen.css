@@ -56,3 +56,26 @@ table {
     background-color: blanchedalmond;
     height: 40px;
   }
+  tr:hover {background-color: lightskyblue;}
+
+  .HEDDA:hover{
+    font-size: medium;
+    color: pink;
+    text-shadow: 0 0 20px rgb(154, 200, 75);
+    border-style: double;
+    border-radius: 25px;
+  }
+  .TESMAN:hover{
+    font-size: medium;
+    color: blue;
+    text-shadow: 0 0 20px rgb(110, 145, 180);
+    border-style: dashed;
+    border-radius: 20px;
+  }
+  .MISS TESMAN:hover{
+    font-size: medium;
+    color: red;
+    text-shadow: 0 0 20px rgb(25, 235, 150);
+    border-style: dotted;
+    border-radius: 10px;
+  }
